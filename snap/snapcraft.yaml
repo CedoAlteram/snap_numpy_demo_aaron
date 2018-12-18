@@ -12,7 +12,7 @@ apps:
 
 parts:
   snap-numpy-aaron:
-    source:
+    source: https://github.com/varUP/snap_numpy_demo_aaron.git
     plugin: python
     python-version: python3
     source-type: git
