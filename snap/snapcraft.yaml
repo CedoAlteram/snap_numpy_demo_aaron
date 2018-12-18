@@ -1,6 +1,6 @@
 name: snap-numpy-aaron
 base: core18
-version: '1.0.0'
+version: '1.0'
 summary: numpy and list comprehension snap demo
 description: generates a massive list, and uses numpy to remove the evens
 grade: stable
