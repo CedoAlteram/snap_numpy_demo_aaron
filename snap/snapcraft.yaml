@@ -8,7 +8,7 @@ confinement: strict
 
 apps:
   snap-numpy-aaron:
-    command: bin/snap-numpy-aaron.py
+    command: bin/snap_numpy_aaron.py
 
 parts:
   snap-numpy-aaron:
