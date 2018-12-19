@@ -17,5 +17,3 @@ parts:
     python-version: python3
     source-type: git
     python-packages: [numpy]
-
-
