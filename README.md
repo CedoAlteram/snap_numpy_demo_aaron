@@ -28,6 +28,10 @@ Go ahead and do yourself a favor and do the following first two commands. trust 
 $ sudo apt install snapcraft
 $ sudo apt install snapd
 $ sudo git clone https://github.com/varUP/snap_numpy_demo_aaron.git
+```
+Make a new DIR and copy yaml file AFTER you `git init` on the new DIR. 
+Once complete:
+```
 $ sudo snapcraft prime
 $ sudo snap try --devmode prime/
 $ snap-numpy-aaron
