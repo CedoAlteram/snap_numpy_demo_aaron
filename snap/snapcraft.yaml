@@ -16,4 +16,4 @@ parts:
     plugin: python
     python-version: python3
     source-type: git
-    python-packages: [numpy]
+    python-packages: ['numpy']
