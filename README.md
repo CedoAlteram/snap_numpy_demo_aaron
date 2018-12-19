@@ -23,13 +23,16 @@ $ source <snap_ex>/bin/activate
 Only use 16.04LTS, 18 has linker issues
 
 ### Installing
-Go ahead and do yourself a favor and
+Go ahead and do yourself a favor and do the following first two commands. trust me
 ```
 $ sudo apt install snapcraft
 $ sudo apt install snapd
-
+$ sudo git clone https://github.com/varUP/snap_numpy_demo_aaron.git
+$ sudo snapcraft prime
+$ sudo snap try --devmode prime/
+$ snap-numpy-aaron
 ```
-trust me
+
 ## Version
 
 Version 1.0
