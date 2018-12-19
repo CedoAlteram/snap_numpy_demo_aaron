@@ -8,7 +8,7 @@ setup(
    description='simple snap / numpy demo',
    author='aaron',
    author_email='aaron@fake_email.com',
-   packages=['snap-numpy-aaron'],
+   packages=['snap_numpy'],
    scripts=['bin/snap_numpy_aaron.py'],
    install_requires=['numpy'],
 )
